@@ -1,2 +1,2 @@
-# super-duper-octo-waffle
-Trabajo de clase 
+git clone <URL-del-repositorio>
+cd <nombre-del-repositorio>
